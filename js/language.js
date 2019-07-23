@@ -245,7 +245,7 @@ var en = {
 
     //#service
     service_title1: 'INDUSTRY',
-    service_title2: '&nbspBackground',
+    service_title2: '&nbspBACKGROUND: ',
     service_title_item1: 'QUALITY OVER QUANTITY',
     service_text_item1: 'Previously, the Chinese gaming market was governed by sales figures. Recently, the focus has shifted and our players are now demanding more quality and more playability. The heart and soul of gaming is back, and we are now entering a golden era for the developers and the players.',
     service_title_item2: 'THE GROWTH OF VIDEO GAMES CROWDFUNDING',
@@ -289,8 +289,8 @@ var en = {
 
 
     //#competitive
-    competitive_title1: 'Competitive',
-    competitive_title2: '&nbspAdvantages',
+    competitive_title1: 'COMPETITIVE',
+    competitive_title2: '&nbspADVANTAGES',
     competitive_title_item1: 'Sign the High Revenue Products',
     competitive_text_item1: 'Sign the product with <span>billion revenue</span>. In the beginning, the community has <span>more than ten</span> commercial mature game work with highly commercial profits.',
     competitive_title_item2: 'Industry Resources',
@@ -334,7 +334,7 @@ var en = {
     
     team_name_item5: 'Feng Tao',
     team_text_item5: 'Feng Tao is the Chairman of New Margin, the investment firm. He is the creator of Sina and has built many other successful cases. In 2017. Mr.Tao was among the top 3 best venture capitalists selected by Forbes China (with Shen Nanpeng and others). In the early days of blockchain, he was a supporter of INB, OK, NEO, BigONE and Beechat, among others.',
-    team_name_item6: 'Frank Liu:',
+    team_name_item6: 'Frank Liu',
     team_text_item6: 'The postdoctoral researcher of Singapore Nanyang Technological University, Mr. Liu owns a number of intellectual property rights. His interests include deep mathematical thinking, studying and researching 3D graphics, cryptography, peer-to-peer communications and blockchain consensus mechanisms.',
     team_name_item9: 'Li Chong',
     team_text_item9: 'Li Chong is a eGamingFund angel investor. He is also a backer of DL Capital and co-founder of PPTV. His main focus is mobile internet, blockchain, Bubi blockchain, SandiJianke, Boqi, P2 joint office and a large number of current ventures.',
