@@ -72,12 +72,12 @@ $(document).ready(function() {
         if(language == "cn"){
             var text = '<source src="./img/community/egamingfund.webm" type="video/webm" />' +
                        '<source src="./img/community/egamingfund.mp4" type="video/mp4" />' +     
-                       '<div id="video_tag_tip">您的浏览器不支持video标签</div>';
+                       '<div id="video_tag_tip">unavailable video</div>';
             $("#community-video .video-content video").append(text);           
         }else{
             var text = '<source src="./img/community/egamingfund_en.webm" type="video/webm" />' +
                        '<source src="./img/community/egamingfund_en.mp4" type="video/mp4" />' +     
-                       '<div id="video_tag_tip">您的浏览器不支持video标签</div>';
+                       '<div id="video_tag_tip">unavailable video/div>';
             $("#community-video .video-content video").append(text);
         }
 
@@ -91,24 +91,6 @@ $(document).ready(function() {
             $("#community-video .video-content .btn-video").show();
         }
     })
-
-
-    //原型版本
-    function showProtoVer(){
-        if(language == "cn"){
-            $("#sequence-button-version span").html("eGamingFund 下载");
-            $("#sequence-button-version").attr("href", "http://game.fund");
-            $("#sequence_other-button-version span").html("eGamingFund 下载");
-            $("#sequence_other-button-version").attr("href", "http://game.fund");
-        }else{
-            $("#sequence-button-version span").html("Download eGamingFund");      //eGamingFund Download
-            $("#sequence-button-version").attr("href", "http://game.fund?language=en");
-            $("#sequence_other-button-version span").html("Download eGamingFund");      //eGamingFund Download
-            $("#sequence_other-button-version").attr("href", "http://game.fund?language=en");
-            $("#top-slider .slider-button .new-button-version").addClass("en-version");
-            $("#sequence .load-pdf-content .new-button-version").addClass("en-version");
-        }
-    }
         
 
     /*----------------------------------------------------*/
