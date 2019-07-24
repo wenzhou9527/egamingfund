@@ -1559,3 +1559,12 @@
     .head p {
 	    color: #fff;
     }
+
+
+
+@media only screen and (max-width: 1768px){
+    #storage_tip>div>span{
+        display: block;
+        margin: 10px;
+    }
+}

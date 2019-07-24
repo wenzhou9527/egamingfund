@@ -88,8 +88,8 @@ var bottomText =
                 '<div class="contact-content">' + 
                     '<div class="privacy-terms">' +
                         // '<a href="#top-slider" ><img src="'+ fatherHref + '/img/contact/logo.png" alt=""></a>' +
-                        '<div style="width: 60px;"><a href="'+ fatherHref + '/GFG_TERMS.pdf" style="color: #a8a8a8;font-size: 12px; border-bottom: 1px solid #c5c5c5;" target="_blank" >TERMS</a></div>' +
-                        '<div style="width: 60px;margin-top: 1vw;"><a href="'+ fatherHref + '/GFG_PRIVACY.pdf" style="color: #a8a8a8;font-size: 12px; border-bottom: 1px solid #c5c5c5;" target="_blank" >PRIVACY</a></div>' +
+                        '<div style="width: 60px;"><a href="'+ fatherHref + '/EGF_TERMS.pdf" style="color: #a8a8a8;font-size: 12px; border-bottom: 1px solid #c5c5c5;" target="_blank" >TERMS</a></div>' +
+                        '<div style="width: 60px;margin-top: 1vw;"><a href="'+ fatherHref + '/EGF_PRIVACY.pdf" style="color: #a8a8a8;font-size: 12px; border-bottom: 1px solid #c5c5c5;" target="_blank" >PRIVACY</a></div>' +
                     '</div>' +
 
                     '<div style="flex: 1;">' + 
@@ -148,6 +148,7 @@ var bottomText =
     '<!-- CONTACT END -->';
 
     $("body").append(bottomText);
+
 
 
     /**语言包  cn: 中文包；en：英文包；ja：日文包*/

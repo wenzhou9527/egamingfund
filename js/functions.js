@@ -1,6 +1,25 @@
 
+// 关闭网页前执行
+window.onbeforeunload = function() {
+    if(localStorage.getItem("isStorage") == "false"){
+        localStorage.clear();
+    }
+}
+
 
 $(document).ready(function() {
+
+    $("#storage_tip").children("div").children("a").eq(0).bind('click', ()=> {
+        $("#storage_tip").hide();
+        localStorage.setItem("isStorage", "true");
+    });
+    $("#storage_tip").children("div").children("a").eq(1).bind('click', ()=> {
+        $("#storage_tip").hide();
+        localStorage.setItem("isStorage", "false");
+    });
+    if(localStorage.getItem("isStorage") == "true"){
+        $("#storage_tip").hide();
+    }
 
     var language = localStorage.getItem("language", language);
     localStorage.setItem("language", 'en');
