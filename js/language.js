@@ -139,7 +139,7 @@ var cn = {
 
     team_name_item19: 'Gareth George McIntosh',
     team_role_item19: 'CEO (Europe, Latin America and USA)',
-    team_text_item19:'A crypto enthusiast with over 15 years’ experience in the online poker industry, George was recently the Managing director of GreySnow Poker. Prior to this, he worked at PokerStars for a number of years in roles starting as the North America Marketing Manager. He then went on to successfully launch the PokerStars Portugal site in this newly regulated market. His field of expertise lies in digital marketing, and the strategizing and execution of marketing campaigns. A keen snowboarder, he currently resides in Malta.',
+    team_text_item19:'A crypto enthusiast with over 15 years’ experience in the online poker industry, George was recently the Managing director of GreySnow Poker. Prior to this, he worked at PokerStars for a number of years, starting as the North America Marketing Manager. He then went on to successfully launch the PokerStars Portugal site in this newly regulated market. His field of expertise lies in digital marketing, and the strategizing and execution of marketing campaigns. A keen snowboarder, he currently resides in Malta.',
 
     //#community
     community_title1: 'Community ',
@@ -316,7 +316,7 @@ var en = {
 
     team_name_item19: 'Gareth George McIntosh',
     team_role_item19: 'CEO (Europe, Latin America and USA)',
-    team_text_item19:'A crypto enthusiast with over 15 years’ experience in the online poker industry, George was recently the Managing director of GreySnow Poker. Prior to this, he worked at PokerStars for a number of years in roles starting as the North America Marketing Manager. He then went on to successfully launch the PokerStars Portugal site in this newly regulated market. His field of expertise lies in digital marketing, and the strategizing and execution of marketing campaigns. A keen snowboarder, he currently resides in Malta.',
+    team_text_item19:'A crypto enthusiast with over 15 years’ experience in the online poker industry, George was recently the Managing director of GreySnow Poker. Prior to this, he worked at PokerStars for a number of years, starting as the North America Marketing Manager. He then went on to successfully launch the PokerStars Portugal site in this newly regulated market. His field of expertise lies in digital marketing, and the strategizing and execution of marketing campaigns. A keen snowboarder, he currently resides in Malta.',
 
     //#community
     community_title1: 'Community ',
