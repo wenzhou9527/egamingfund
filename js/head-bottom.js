@@ -63,7 +63,7 @@ $("body").prepend(headerText);
 var bottomText =
     '<!-- CONTACT -->' +
     '<div id="contact">' +
-      '<div class="container" style="width: 90vw; height: 100%;">' +
+      '<div class="container" style="height: 100%;">' +
         '<div class="row" style="height: 100%;">' +
         
           '<div class="center-block" style="height: 100%;">' +
@@ -92,7 +92,7 @@ var bottomText =
                         '<div style="width: 60px;margin-top: 1vw;"><a href="'+ fatherHref + '/EGF_PRIVACY.pdf" style="color: #a8a8a8;font-size: 12px; border-bottom: 1px solid #c5c5c5;" target="_blank" >PRIVACY</a></div>' +
                     '</div>' +
                     
-                    '<div style="flex: 1;">' + 
+                    '<div style="flex: 4;">' + 
                     '</div>' +
 
                     '<div style="flex: 1;">' + 

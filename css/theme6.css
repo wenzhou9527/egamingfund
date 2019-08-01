@@ -1314,12 +1314,13 @@
         flex: 2;
         display: flex;
         align-items: flex-start;
+        padding: 10px;
     }
     #contact .container .privacy-terms{
         flex: 1;
         display: flex;
         flex-direction: column;
-        align-items: center;
+        align-items: flex-start;
         text-align: left;
     }
 
@@ -1364,10 +1365,9 @@
     #contact .container .qr-code{
         flex: 15%; 
         display: flex; 
-        justify-content: space-around;
+        justify-content: flex-end;
     }
     #contact .container .qr-code div{
-        flex: 1;
         text-align: center;
     }
     #contact .container .qr-code div img{
@@ -1465,9 +1465,10 @@
             line-height: 40px;       
         }
     }
-    @media only screen and (max-width: 568px){
+    @media only screen and (max-width: 598px){
         #contact .container .qr-code{
             margin: 50px auto 50px;
+            justify-content: center;
         }
         #contact .container .content{
             justify-content: center;
@@ -1482,6 +1483,7 @@
         #contact .container .privacy-terms{
             margin: 12vw 0;
             text-align: center;
+            align-items: center;
         }
         #contact .container .privacy-terms>div{
             margin-bottom: 20px;

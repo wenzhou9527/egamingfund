@@ -167,7 +167,7 @@ $(document).ready(function() {
         if(language == "en"){
             $("#portfolio .overlay p ").css("line-height", "18px");
             $("#portfolio .overlay  #Grid_title_item11").css("margin", "0");
-            $("#competitive .background-img .competitive-content .sixth-content .item-text").css("line-height", "130%");
+            // $("#competitive .background-img .competitive-content .fourth-content .item-text").css("line-height", "130%");
             // $("#industry-status .container .prominent-characteristic").css("margin-top", "5vw");
             $("#industry-status .container .special-info div span").css("line-height", "20px");
             $("#industry-status .industry-status-intro").css("top", "12%");

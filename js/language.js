@@ -87,12 +87,12 @@ var cn = {
     //#competitive
     competitive_title1: 'eGamingFund',
     competitive_title2: '&nbspAdvantages',
-    competitive_text_item1: 'The best games: eGamingFund provides access to a huge number of fantastic games for players of all levels',
+    competitive_text_item1: 'The more the GFG token is used throughout the community, the more the demand for GFG tokens increases - so the more the value of GFG appreciates',
     competitive_text_item2: 'eGaming crowdfunding: community members can support the cost of game development using GFG, and those funders will receive GFG returns from any success of the game',
     competitive_text_item3: 'Our collective experience in eGaming, online gaming and the blockchain industry over the last decade has led to the creation of a network of first-class industry connections',
-    competitive_text_item4: 'Gaming development software for all: we built eGamingFundCreator, the software-development environment, designed for any game lover',
-    competitive_text_item5: 'The more the GFG token is used throughout the community, the more the demand for GFG tokens increases - so the more the value of GFG appreciates',
-    competitive_text_item6: 'eGamingFund website is HTML5 optimised – so anybody can play the best games on whichever device they choose (mobile, tablet or desktop) without the need for downloading software',
+    competitive_text_item4: 'eGamingFund Creator games are all HTML5 optimised – so any games created can be played on whichever device you choose (mobile, tablet or desktop)',
+    competitive_text_item5: 'The best games: eGamingFund provides access to a huge number of fantastic games for players of all levels',
+    competitive_text_item6: 'Gaming development software for all: we built eGamingFundCreator, the software-development environment, designed for any game lover',
 
     //#price
     price_title1: 'Products',
@@ -116,7 +116,7 @@ var cn = {
     team_title: 'Team',
     team_title_intro: '&nbspIntroduce',
     team_title1: 'THE MAIN TEAM',
-    team_title2: 'CONSULTANTS',
+    team_title2: 'ADVISORS',
     team_title3: 'SPONSORS',
 
     team_name_item3: 'Oliver Wu',
@@ -264,12 +264,12 @@ var en = {
     //#competitive
     competitive_title1: 'eGamingFund',
     competitive_title2: '&nbspAdvantages',
-    competitive_text_item1: 'The best games: eGamingFund provides access to a huge number of fantastic games for players of all levels',
+    competitive_text_item1: 'The more the GFG token is used throughout the community, the more the demand for GFG tokens increases - so the more the value of GFG appreciates',
     competitive_text_item2: 'eGaming crowdfunding: community members can support the cost of game development using GFG, and those funders will receive GFG returns from any success of the game',
     competitive_text_item3: 'Our collective experience in eGaming, online gaming and the blockchain industry over the last decade has led to the creation of a network of first-class industry connections',
-    competitive_text_item4: 'Gaming development software for all: we built eGamingFundCreator, the software-development environment, designed for any game lover',
-    competitive_text_item5: 'The more the GFG token is used throughout the community, the more the demand for GFG tokens increases - so the more the value of GFG appreciates',
-    competitive_text_item6: 'eGamingFund website is HTML5 optimised – so anybody can play the best games on whichever device they choose (mobile, tablet or desktop) without the need for downloading software',
+    competitive_text_item4: 'eGamingFund Creator games are all HTML5 optimised – so any games created can be played on whichever device you choose (mobile, tablet or desktop)',
+    competitive_text_item5: 'The best games: eGamingFund provides access to a huge number of fantastic games for players of all levels',
+    competitive_text_item6: 'Gaming development software for all: we built eGamingFundCreator, the software-development environment, designed for any game lover',
 
     //#price
     price_title1: 'Products',
@@ -293,7 +293,7 @@ var en = {
     team_title: 'Team',
     team_title_intro: '&nbspIntroduce',
     team_title1: 'THE MAIN TEAM',
-    team_title2: 'CONSULTANTS',
+    team_title2: 'ADVISORS',
     team_title3: 'SPONSORS',
 
     team_name_item3: 'Oliver Wu',
