@@ -743,3 +743,19 @@ h3 {
         width: 90%;
     }
 }
+
+
+
+
+@media only screen and (min-width: 1068px){
+    #nav-button {
+        float: right;
+        margin-right: 100px;
+    }
+}
+
+@media only screen and (max-width: 1067px){
+    #nav-button .navbar-nav {
+        margin: 7.5px;
+    }
+}
