@@ -6,8 +6,8 @@ var headerText =
           '<div class="container">' +
                 // '<div class="w-col">' +
                 //     '<a href="'+ fatherHref + '/index.html" style="display: flex;align-items: center;">' +
-                //         '<img class="logo" src="'+ fatherHref + '/img/logo2.png" height="28px">' +
-                //         '<div style="margin-top: 10px; font-size: 18px; color: #fff">e<span style="color: #fe6501">G</span>aming<span style="color: #fe6501">F</span>und</div>' +
+                //         '<img class="logo" src="'+ fatherHref + '/img/logo2-new.png" height="28px">' +
+                //         '<div style="margin-top: 10px; font-size: 18px; color: #fff">e<span style="color: #fa4616">G</span>aming<span style="color: #fa4616">F</span>und</div>' +
                 //     '</a>' +
                 // '</div>' +
 
@@ -64,8 +64,8 @@ var headerText =
                 '</button>' +
                 '<div class="w-col">' +
                     '<a href="'+ fatherHref + '/index.html" style="display: flex;align-items: center;">' +
-                        '<img class="logo" src="'+ fatherHref + '/img/logo2.png" height="28px">' +
-                        '<div style="margin-top: 10px; font-size: 18px; color: #fff">e<span style="color: #fe6501">G</span>aming<span style="color: #fe6501">F</span>und</div>' +
+                        '<img class="logo" src="'+ fatherHref + '/img/logo2-new.svg" height="28px">' +
+                        '<div style="margin-top: 10px; font-size: 18px; color: #fff; font-family: Barlow-SemiBold;">e<span style="color: #fa4616">G</span>aming<span style="color: #fa4616">F</span>und</div>' +
                     '</a>' +
                 '</div>' +
             '</div>' +
@@ -146,8 +146,8 @@ var bottomText =
                         // logo
                         '<div class="content">' +
                             '<a href="'+ fatherHref + '/index.html" style="display: flex;align-items: center; margin-left: 1vw">' +
-                                '<img src="'+ fatherHref + '/img/logo2.png" width="28px" height="28px" style="margin-right: 10px;">' +
-                                '<div style="font-size: 18px; color: #fff">e<span style="color: #fe6501">G</span>aming<span style="color: #fe6501">F</span>und</div>' +
+                                '<img src="'+ fatherHref + '/img/logo2-new.svg" width="28px" height="28px" style="margin-right: 10px;">' +
+                                '<div style="font-size: 18px; color: #fff; font-family: Barlow-SemiBold;">e<span style="color: #fa4616">G</span>aming<span style="color: #fa4616">F</span>und</div>' +
                             '</a>' +
                         '</div>' +
                     '</div>' +
